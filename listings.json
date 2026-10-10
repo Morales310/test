@@ -1,0 +1,348 @@
+[
+  {
+    "id": "custom-mv0rc75x",
+    "title": "3 Bedroom Flat",
+    "location": "Romi Lusawa, Kaduna",
+    "type": "apartment",
+    "mode": "sale",
+    "price": 15000000,
+    "status": "For Sale",
+    "badge": "New",
+    "alert": false,
+    "rating": 5,
+    "reviews": 0,
+    "beds": 3,
+    "baths": 1,
+    "parking": "1 car",
+    "size": "—",
+    "desc": "Tiled asset with water supply which offers privacy in a lively environment",
+    "highlights": [
+      "Fenced",
+      "Gated",
+      "Borehole",
+      "Pop",
+      "Tiles"
+    ],
+    "draft": false,
+    "media": [
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0rc75x-f1e387b492.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0rc75x-f6cafc3220.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0rc75x-73199a5e49.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0rc75x-914db44821.jpg"
+      }
+    ],
+    "priceNote": "15 million Net"
+  },
+  {
+    "id": "custom-mv0r68aw",
+    "title": "2 Bedroom Flat",
+    "location": "Up Market, Goningora, Kaduna",
+    "type": "apartment",
+    "mode": "rent",
+    "price": 350000,
+    "status": "For Rent",
+    "badge": "New",
+    "alert": false,
+    "rating": 5,
+    "reviews": 0,
+    "beds": 2,
+    "baths": 1,
+    "parking": "1 car",
+    "size": "—",
+    "desc": "fenced, gated ,with water supply,close proximity to the road and market",
+    "highlights": [
+      "Fence",
+      "Gate",
+      "Borehole",
+      "PVC",
+      "Tiles\\Normal floor"
+    ],
+    "draft": false,
+    "media": [
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0r68aw-885898b4af.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0r68aw-9943b5da9e.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0r68aw-c1ea711347.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0r68aw-e3603068aa.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0r68aw-52ca9347ac.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/listings/custom-mv0r68aw-d244eeedbe.jpg"
+      }
+    ],
+    "priceNote": "350k rent option"
+  },
+  {
+    "id": "custom-mv0qwpo9",
+    "title": "Land for Sale",
+    "location": "Maijero, Kaduna",
+    "type": "apartment",
+    "mode": "sale",
+    "price": 10000000,
+    "status": "For Sale",
+    "badge": "Land",
+    "alert": false,
+    "rating": 3.5,
+    "reviews": 0,
+    "beds": 1,
+    "baths": 1,
+    "parking": "1 car",
+    "size": "—",
+    "desc": "There is slight room for negotiations",
+    "highlights": [],
+    "draft": false,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://videotourl.com/videos/1791536908409-165b0d0c-676a-481c-b5a9-fe0c9ac6ddbc.mp4"
+      }
+    ],
+    "priceNote": "10 million per plot"
+  },
+  {
+    "id": "bungalow-narayi",
+    "title": "3 Bedroom Standalone Bungalow",
+    "location": "Baya Dutse, Narayi, Kaduna South",
+    "type": "house",
+    "mode": "rent",
+    "price": 1300000,
+    "status": "For Rent",
+    "badge": "Top pick",
+    "alert": false,
+    "rating": 4.9,
+    "reviews": 14,
+    "beds": 3,
+    "baths": 3,
+    "parking": "1 car",
+    "size": "30 sqm",
+    "desc": "A neat standalone bungalow with POP sitting room, full tiling throughout, borehole water supply and an attached shop — ideal for a family, or an owner-occupier who wants a small business front.",
+    "highlights": [
+      "POP sitting room",
+      "Fully tiled",
+      "Borehole water",
+      "Attached shop",
+      "Standalone building",
+      "Quiet neighbourhood"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "src": "VID-20260624-WA0010.mp4"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80"
+      }
+    ]
+  },
+  {
+    "id": "karatudu-double",
+    "title": "Double 2 Bedroom Apartment",
+    "location": "Karatudu, Kaduna",
+    "type": "apartment",
+    "mode": "sale",
+    "price": 12000000,
+    "status": "For Sale",
+    "badge": "Verified",
+    "alert": false,
+    "rating": 4.8,
+    "reviews": 9,
+    "beds": 2,
+    "baths": 1,
+    "parking": "2 cars",
+    "size": "39 sqm",
+    "desc": "Two apartment units on one plot — fenced, gated and fully finished with tiles, borehole water and a prepaid meter. Strong rental yield or a comfortable shared family home.",
+    "highlights": [
+      "Fenced & gated",
+      "Prepaid meter",
+      "Borehole water",
+      "Fully tiled",
+      "Two units on one plot",
+      "Secure compound"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "src": "img/IMG-20260624-WA0014.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/IMG-20260624-WA0015.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/IMG-20260624-WA0013.jpg"
+      },
+      {
+        "type": "image",
+        "src": "img/IMG-20260624-WA0011.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kamazo-3bed",
+    "title": "3 Bedroom Apartment",
+    "location": "Kamazo, off Yakowa Way, Kaduna",
+    "type": "apartment",
+    "mode": "sale",
+    "price": 15000000,
+    "status": "Under Construction",
+    "badge": "New build",
+    "alert": false,
+    "rating": null,
+    "reviews": 0,
+    "beds": 3,
+    "baths": 2,
+    "parking": "2 cars",
+    "size": "35 sqm",
+    "desc": "Three-bedroom flat currently under construction, plus completed one unit each of a one-bedroom flat and a room self-con. Inspect now and lock the price before completion — close to ECWA Goodnews Church.",
+    "highlights": [
+      "New construction",
+      "Plus 1-bed & self-con units",
+      "Off Yakowa Way",
+      "Near ECWA Goodnews Church",
+      "Gated street",
+      "Price negotiable on inspection"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "src": "VID-20260624-WA0017.mp4"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=80"
+      }
+    ]
+  },
+  {
+    "id": "mahuta-5units",
+    "title": "5 Units, 1 Bedroom Apartment",
+    "location": "Mahuta Ext, by Dinam Hotel, Kaduna",
+    "type": "apartment",
+    "mode": "sale",
+    "price": 19000000,
+    "status": "Distress Sale",
+    "badge": "Distress sale",
+    "alert": true,
+    "rating": 4.7,
+    "reviews": 6,
+    "beds": 1,
+    "baths": 1,
+    "parking": "1 car",
+    "size": "30 sqm",
+    "desc": "Five one-bedroom units with aluminum roof, PVC ceilings, spacious sitting room and bedroom each, in a concrete-compound, borehole-served, fenced and gated property with good proximity to the tarred road.",
+    "highlights": [
+      "Five income units",
+      "Aluminium roof & PVC",
+      "Concrete compound",
+      "Borehole + fenced + gated",
+      "Close to tarred road",
+      "By Dinam Hotel"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "src": "VID-20260624-WA0000.mp4"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      }
+    ]
+  },
+  {
+    "id": "buwaya-7units",
+    "title": "7 Units, 1 Bedroom Apartment",
+    "location": "Buwaya, Goningora, Kaduna",
+    "type": "apartment",
+    "mode": "sale",
+    "price": 30000000,
+    "priceNote": "₦2,600,000 annual rent option",
+    "status": "Distress Sale",
+    "badge": "Top pick",
+    "alert": true,
+    "rating": 5,
+    "reviews": 11,
+    "beds": 1,
+    "baths": 1,
+    "parking": "3 cars",
+    "size": "120/60 sqm",
+    "desc": "Six one-bedroom-and-bathroom flats plus one room flat, with POP, tiles, interlocking, prepaid meter, industrial borehole and tank stand — fenced and gated. Price is slightly negotiable on inspection.",
+    "highlights": [
+      "Seven units in total",
+      "Prepaid meter",
+      "Industrial borehole",
+      "Interlocking compound",
+      "Fenced & gated",
+      "Slightly negotiable"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "src": "VID-20260716-WA0002.mp4"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1416331108676-a22ccb276e35?auto=format&fit=crop&w=1200&q=80"
+      }
+    ]
+  }
+]
